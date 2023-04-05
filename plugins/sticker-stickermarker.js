@@ -31,5 +31,5 @@ await conn.sendFile(m.chat, apiUrl, 'image.png', null, m)
 }}
 handler.help = ['stickmaker (caption|reply media)']
 handler.tags = ['General']
-handler.command = /^(stickmaker|stickermaker|stickermarker|cs)$/i
+handler.command = /^(استيكرr|stickermaker|s|ملصق)$/i
 export default handler
