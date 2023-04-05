@@ -36,7 +36,7 @@ conn.sendMessage(m.chat, {sticker: mediax, mentions: users}, { quoted: m })
 } else {
 await conn.relayMessage(m.chat, {extendedTextMessage:{text: `${masss}\n${htextos}\n`, ...{ contextInfo: { mentionedJid: users, externalAdReply: { thumbnail: imagen1, sourceUrl: 'https://github.com/BrunoSobrino/TheMystic-Bot-MD' }}}}}, {})
 }}}
-handler.command = /^(hidetag|notificar|notify)$/i
+handler.command = /^(منشن|مخفي|تاج)$/i
 handler.group = true
 handler.admin = true
 export default handler
