@@ -8,8 +8,8 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  ['201275658375', '👑 Mystic - Creador 👑', true],
-  ['201275658375', '💫 Mystic - Collaborator 1 💫', true],
+  ['201275658375', '👑 𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★👑', true],
+ /* ['201275658375', '💫 Mystic - Collaborator 1 💫', true],
   ['201275658375', '💫 Mystic - Collaborator 2 💫', true],
   ['201275658375', '💫 Mystic - Collaborator 3 💫', true],
   ['201275658375', '💫 Mystic - Collaborator 4 💫', true],
@@ -20,7 +20,7 @@ global.owner = [
   ['201275658375'],
   ['201275658375'],
   ['201275658375'],	
-  ['201275658375']
+  ['201275658375']*/
 ] 
 
 global.suittag = ['201275658375'] 
@@ -28,8 +28,8 @@ global.prems = ['201275658375']
 
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★'
-global.wm = '★𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★★'
-global.igfg = '★𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★★'
+global.wm = '★𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★'
+global.igfg = '★𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★'
 global.wait = '*[❗] ثواني...*'
 
 
@@ -445,8 +445,8 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝐷𝑅𝐴𝐾𝐸𝑁 𝑀𝐷`
 global.gt = '★𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★★'
 global.mysticbot = '★𝐷𝑅𝐴𝐾𝐸𝑁  - 𝑀𝐷★★'
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD'
+global.md = 'https://github.com/BrunoSobr-Bot-MD'
+global.mysticbot = 'https://github.com/BrunoSobrtic-Bot-MD'
 global.waitt = '*[❗] ثواني يحب...*'
 global.waittt = '*[❗] ثواني يحب...*'
 global.waitttt = '*[❗] ثواني يحب...*'
