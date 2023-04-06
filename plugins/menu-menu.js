@@ -253,12 +253,13 @@ import fs from 'fs'
 
 ╰━━━━━━━━━━━━━━━━╾•*
 *┣━━━❰･😊قائمة الشكر😊･❱━━━┫*
-*┃شكرا لكم على استخدام بوتات دراكن يا عمري*
 
-*┃المطور::wa.me/01275658375*
+*┃ شكرا لكم على استخدام بوتات دراكن يا عمري*
 
-*┃جروب الدعم::* https://chat.whatsapp.com/HgFwqqDUiQh66hmehZPCRw
-*╰━━━╼🖊توقيع مغامـــــBOTــــره╾━━━╯*  
+*┃ المطور::wa.me/01275658375*
+
+*┃ جروب الدعم::* https://chat.whatsapp.com/HgFwqqDUiQh66hmehZPCRw
+*╰━━━╼ــكـنBOTدرا╾━━━╯*  
  `.trim() 
  let buttons = [ 
  { buttonId: '#donar', buttonText: { displayText: '⋆ الانستجرام •' }, type: 1 }, 
